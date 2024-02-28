@@ -144,27 +144,3 @@ employees_final.set_index("employee_id", inplace=True)
 
 </div>
 
-<div class="cell code" execution_count="6">
-
-``` python
-nbconvert --to markdown notebook.ipynb
-```
-
-<div class="output error" ename="SyntaxError"
-evalue="invalid syntax (479693054.py, line 1)">
-
-      Cell In[6], line 1
-        nbconvert --to html notebook.ipynb
-                       ^
-    SyntaxError: invalid syntax
-
-</div>
-
-</div>
-
-<div class="cell code">
-
-``` python
-```
-
-</div>
